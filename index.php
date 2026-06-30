@@ -39,8 +39,10 @@
             <br>
 
     <hr>
-    <h2>Phase 2 — Web : formulaires, GET/POST, sessions</h2>
+    <h2>Phase 3 — Base de données (PDO) + CRUD final</h2>
         <a href="ex 11-20/ex15.sql">Exercice 15</a> - Modélisation DB + script SQL
+            <br>
+        <a href="ex 11-20/ex16/ex16.php">Exercice 16</a> - Connexion PDO + fichier db.php
             <br>
 
 </body>
