@@ -44,6 +44,8 @@
             <br>
         <a href="ex 11-20/ex16/ex16.php">Exercice 16</a> - Connexion PDO + fichier db.php
             <br>
+        <a href="ex 11-20/ex17/ex17.php">Exercice 17</a> - READ : afficher tous les livres depuis DB
+            <br>
 
 </body>
 
