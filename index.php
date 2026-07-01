@@ -46,6 +46,8 @@
             <br>
         <a href="ex 11-20/ex17/ex17.php">Exercice 17</a> - READ : afficher tous les livres depuis DB
             <br>
+        <a href="ex 11-20/ex18/ex18.php">Exercice 18</a> - CREATE : ajouter un livre en DB
+            <br>
 
 </body>
 
